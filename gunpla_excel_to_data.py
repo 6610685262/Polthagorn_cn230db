@@ -1,6 +1,6 @@
 #install#pip install pandas
 #install#pip install openpyxl
-
+#Polthagorn Onthong 6610685262
 import pandas as pd
 import sqlite3
 
