@@ -1,6 +1,6 @@
 import sqlite3
 import pandas as pd
-
+#Polthagorn Onthong 6610685262
 # Connect to the database
 conn = sqlite3.connect('gundam_models.db')
 
