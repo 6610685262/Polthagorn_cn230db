@@ -1,0 +1,13 @@
+Purpose:
+This project was created for Gunpla enthusiasts, collectors, business owners, and media professionals who are looking for information. The aim is to make it easier to find relevant data and to help anticipate trends in the Gunpla market.
+
+
+Disclaimer:
+This Excel (.xlsx) file and accompanying database were manually compiled by Polthagorn Onthong (Student ID: 6610685262) for the course CN230.
+
+Due to inconsistencies in how Gunpla kits are documented—varying by series, media, scale, and grade—and the absence of complete data from official sources, the information had to be gathered manually from various online resources, including shopping websites.
+
+Also, this isn’t even all the Gunpla in the world—just the data I had time to gather.
+
+Thank you for wasting your time reading this.
+
